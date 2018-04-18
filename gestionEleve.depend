@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1507806282 source:c:\users\olivier_2\documents\c++\superprojetapplicationgestioneleve\gestioneleve\main.cpp
+	"application.h"
+
+1508098094 c:\users\olivier_2\documents\c++\superprojetapplicationgestioneleve\gestioneleve\application.h
+	"matiere.h"
+	"section.h"
+
+1508103274 c:\users\olivier_2\documents\c++\superprojetapplicationgestioneleve\gestioneleve\section.h
+	<iostream>
+	<vector>
+	"matiere.h"
+	"etudiant.h"
+
+1508105376 c:\users\olivier_2\documents\c++\superprojetapplicationgestioneleve\gestioneleve\matiere.h
+	<iostream>
+
+1508082173 c:\users\olivier_2\documents\c++\superprojetapplicationgestioneleve\gestioneleve\evaluation.h
+	<iostream>
+	<vector>
+
+1508105687 source:c:\users\olivier_2\documents\c++\superprojetapplicationgestioneleve\gestioneleve\application.cpp
+	"application.h"
+
+1507806284 source:c:\users\olivier_2\documents\c++\superprojetapplicationgestioneleve\gestioneleve\note.cpp
+	"note.h"
+
+1508104858 source:c:\users\olivier_2\documents\c++\superprojetapplicationgestioneleve\gestioneleve\section.cpp
+	"section.h"
+
+1508103230 c:\users\olivier_2\documents\c++\superprojetapplicationgestioneleve\gestioneleve\etudiant.h
+	<iostream>
+	<vector>
+
+1507806284 source:c:\users\olivier_2\documents\c++\superprojetapplicationgestioneleve\gestioneleve\bulletin.cpp
+	"bulletin.h"
+
+1507806284 c:\users\olivier_2\documents\c++\superprojetapplicationgestioneleve\gestioneleve\bulletin.h
+	<iostream>
+
+1508104518 source:c:\users\olivier_2\documents\c++\superprojetapplicationgestioneleve\gestioneleve\etudiant.cpp
+	"etudiant.h"
+
+1507806284 source:c:\users\olivier_2\documents\c++\superprojetapplicationgestioneleve\gestioneleve\evaluation.cpp
+	"evaluation.h"
+
+1508105649 source:c:\users\olivier_2\documents\c++\superprojetapplicationgestioneleve\gestioneleve\matiere.cpp
+	"matiere.h"
+
+1507806284 c:\users\olivier_2\documents\c++\superprojetapplicationgestioneleve\gestioneleve\note.h
+	<iostream>
+
